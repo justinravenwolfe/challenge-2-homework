@@ -7,6 +7,7 @@
 
 body {
     background-color: #d9dcd6;
+    /*adding background color of the body*/
 }
 
 .header {
@@ -14,11 +15,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    /*adding padding, font style, background color and color of the text*/
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    /*changing the display property to be in the same line and text size*/
 }
 
   .seo {
